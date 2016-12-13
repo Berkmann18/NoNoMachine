@@ -1,0 +1,4 @@
+Host cim
+  User abcd123
+  HostName teaching.cim.rhul.ac.uk
+  Port 22
