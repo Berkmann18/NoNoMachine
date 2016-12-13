@@ -1,6 +1,7 @@
 = NoNoMachine =
 
 == Description ==
+
 A package for CLI users who needs to do stuff on NoMachine but don't want to use NoMachine (because it's crap!).
 
 It contains the following files:
@@ -17,4 +18,5 @@ sed -i 's/zcvd321/username/g' setup.sh #replace username by your username
 ./setup.sh
 
 == Note ==
+
 This package is originally intended to be used by only RHUL students/staff.
