@@ -14,14 +14,20 @@ It contains the following files:
 == Setup ==
 
 In order to setup the package, you need to open a CLI window on the current directory and run:
-sed -i 's/zcvd321/username/g' setup.sh #replace username by your username
+
+=== Linux ===
+
+sed -i 's/abcd123/username/g' setup.sh #replace username by your username
 ./setup.sh
+
+=== Windows ===
+
+switch setup.bat abcd123 username REM replace username by your username
+setup
+
+=== Mac ===
+TBC
 
 == Note ==
 
 This package is originally intended to be used by only RHUL students/staff.
-
-== TODO ==
-
-1. Add a Windows package
-2. Add an OSX package (ask to Mac users or setup VM)
