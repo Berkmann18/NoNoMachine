@@ -15,16 +15,21 @@ In order to setup the package, you need to open a CLI window on the current dire
 
 ### Linux
 ```bash
-sed -i 's/abcd123/username/g' setup.sh #replace username by your username
+#replace username by your username
+sed -i 's/abcd123/username/g' setup.sh
 ./setup.sh
 ```
 ### Windows
 ```batch
-switch setup.bat abcd123 username REM replace username by your username
+REM replace username by your username
+switch setup.bat abcd123 username
 setup
 ```
 ### Mac
 TBC
+```bash
+
+```
 
 ## Note
 This package is originally intended to be used by only RHUL students/staff.
