@@ -14,7 +14,7 @@ In order to setup the package, you need to open a CLI window on the current dire
 
 ```batch
 REM replace username by your username
-switch setup.bat abcd123 username
+switch setup.bat zcvd321 username
 setup
 ```
 
