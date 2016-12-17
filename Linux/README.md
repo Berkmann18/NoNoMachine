@@ -14,7 +14,7 @@ In order to setup the package, you need to open a CLI window on the current dire
 
 ```bash
 #replace username by your username
-sed -i 's/zcvd321/username/g' setup.sh
+sed -i 's/abcd123/username/g' setup.sh
 ./setup.sh
 ```
 
