@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< win
 =======
+=======
+>>>>>>> master
 # NoNoMachine
 ## Description
 A package for CLI users who needs to do stuff on NoMachine but don't want to use NoMachine (because it's crap!).
@@ -16,10 +19,17 @@ In order to setup the package, you need to open a CLI window on the current dire
 
 ```batch
 REM replace username by your username
+<<<<<<< HEAD
 switch setup.bat zcvd321 username
+=======
+switch setup.bat abcd123 username
+>>>>>>> master
 setup
 ```
 
 ## Note
 This package is originally intended to be used by only RHUL CIM students/staff on a Windows OS, so if you're not a CompSci/InfoSec/Maths RHUL student and don't get it work, then it's _normal_.
+<<<<<<< HEAD
 >>>>>>> Auto stash for revert of "Error fix"
+=======
+>>>>>>> master
