@@ -3,7 +3,7 @@
 A package for CLI users who needs to do stuff on NoMachine but don't want to use NoMachine (because it's crap!).
 
 It contains the following files:
-- cim.(sh|bat): Bash/Batch script made for transfering files/directories across your computer and your CIM desktop (type ./cim.sh -h to see how you could use it)
+- cim.(sh|bat): Bash/Batch script made for transfering files/directories across your computer and your CIM desktop (type ./cim.sh -h or cim /? to see how you could use it)
 - psqlConnect.(sh|bat): Bash/Batch script made to connect the current CLI window to the uni's PostgresSQL server
 - setup.(sh|bat): Setup script that will setup the package
 - SSH_config.txt: SSH config file that ease manual SSH connections
