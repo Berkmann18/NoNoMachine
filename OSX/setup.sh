@@ -1,4 +1,3 @@
-#!/bin/bash
 #Setup script for the NoNoMachine package made by Maximilian Berkmann
 
 sed -i 's/abcd123/zcvd321/g' SSH_config.txt
