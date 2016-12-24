@@ -20,3 +20,8 @@ setup
 
 ## Note
 This package is originally intended to be used by only RHUL CIM students/staff on a Windows OS, so if you're not a CompSci/InfoSec/Maths RHUL student and don't get it work, then it's _normal_.
+
+
+## TODO
+- Make an executable format for the package or the relevant scripts (with GUI?)
+- Improve the setup script to make the setup process less manual
