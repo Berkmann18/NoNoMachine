@@ -18,3 +18,11 @@ In order to setup the package, you need to open a CLI wi
 ## Note
 This package is still not tested (due to the impossibility to get an OSX VM to work) so it __may not work__.
 Also, this package is originally intended to be used by only RHUL CIM students/staff on OSX, so if you're not a CompSci/InfoSec/Maths RHUL student and don't get it work, then it's _normal_.
+
+
+## TODO
+
+- Add a client script (cf. ../Linux/client.sh)
+- Have a working setup script along the other scripts too
+- Complete the Setup section with the right instructions (possibly based off Linux's ones)
+
