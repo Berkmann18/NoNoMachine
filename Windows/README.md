@@ -5,6 +5,7 @@ A package for CLI users who needs to do stuff on NoMachine but don't want to use
 It contains the following files:
 - cim.bat: Bash/Batch script made for transfering files/directories across your computer and your CIM desktop (type ```cim /?``` to see how you could use it)
 - psqlConnect.bat: Batch script made to connect the current CLI window to the uni's PostgresSQL server
+- psqlRemoteConnect.bat: Same as psqlConnect.bat but for NON-SSH sessions.
 - setup.bat: Setup script that will setup the package
 - SSH_config.txt: SSH config file that ease manual SSH connections
 - sshDB.bat: Batch script made for connecting the current CLI window to the TeachDB environment.
@@ -25,3 +26,4 @@ This package is originally intended to be used by only RHUL CIM students/staff o
 ## TODO
 - Make an executable format for the package or the relevant scripts (with GUI?)
 - Improve the setup script to make the setup process less manual
+
