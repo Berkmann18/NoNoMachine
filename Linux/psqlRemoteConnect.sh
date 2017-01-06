@@ -5,4 +5,4 @@ if [ -n "$1" ]; then
 else
 	user="abcd123" #change that to your username
 fi
-psql -h teachdb CS2855/$user
+psql -h teachdb.cim.rhul.ac.uk CS2855/$user
